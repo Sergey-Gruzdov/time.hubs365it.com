@@ -8,9 +8,6 @@
     <script src="scripts.js"></script>
 </head>
 <body>
-    <?php
-    phpinfo(int $flags = INFO_ALL): true
-    require_once('dbconnect.php');
-    ?>
+
 </body>
 </html>
